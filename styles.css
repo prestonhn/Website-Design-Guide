@@ -1,0 +1,91 @@
+body{
+    margin: 0px 10%;
+    font-family: 'Courier New', Courier, monospace;
+}
+#banner{
+    text-align: center;
+    padding: 3% 0;
+    background-image: url(./Images/6bxva8DmZvNj8kaVrQZZMP.jpg);
+    color: white;
+}
+.container h2{
+    margin-bottom: 50px;
+    margin-left: 80px;
+}
+.container{
+    border: 1px solid;
+    border-color: black;
+    padding: 10px 10%;
+    margin: 10px auto;
+}
+
+.colorblock{
+    height: 150px;
+    width: 150px;
+    border: 1px solid;
+}
+
+.colordescription{
+    list-style: none;
+    border-color: black;
+}
+
+.colordescription li{
+    display:inline-block;
+    margin: 0 100px;
+}
+
+.font-panel{
+    display: inline-block;
+    margin: 0 100px;
+}
+
+.regular {
+    font-style: normal;
+  }
+.bold{
+    font-weight: 700;
+}
+.italic{
+    font-style: italic;
+}
+.source-code-pro{
+    font-family: 'Source Code Pro', monospace;
+}
+.nunito-sans{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-label{
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.container h1{
+    margin-left: 80px;
+    font-weight: 700px;
+    font-size: 26px;
+    font-family: Nunito Sans;
+}
+
+.container li{
+    margin-left: 80px;
+}
+
+#paragraph{
+    margin-left: 80px;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: Poppins;
+}
+
+#subheading{
+    margin-left: 80px;
+    margin-bottom: 0;
+    font-weight: 700px;
+    font-size: 18px;
+    font-family: Poppins;
+}
